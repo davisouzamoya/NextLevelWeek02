@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center" font-size: 100>Proffys</h1> 
+  <h1 align="center" style="font-size:100px">Proffys</h1> 
 </p>
 
 <p align="center"> 🚀 Projeto feito para conectar professores e estudantes, feito na Next Level Week #2 Rocketseat.
