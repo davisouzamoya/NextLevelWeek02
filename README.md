@@ -17,8 +17,8 @@
 ## 📝 Conteúdo
 
 - [Sobre](#sobre)
-- [Tecnologias](#tecnologias)
 - [Como rodar](#como_rodar)
+- [Tecnologias](#tecnologias)
 - [Licencia](#licencia)
 
 ## 🧐 Sobre <a name = "sobre"></a>
@@ -28,15 +28,6 @@ O Proffy é uma aplicação Web e Mobile feita para auxiliar na conexão entre o
 Este projeto foi idealizado pensando no 6 de agosto, onde se comemora o Dia Nacional dos Profissionais da Educação.
 
 Essa aplicação foi realizada durante a Next Level Week #2, projeto da [Rocketseat](https://rocketseat.com.br/).
-
-## ⛏️ Tecnologias <a name = "tecnologias"></a>
-
-- [Sqlite3](https://github.com/sqlite/sqlite) - Database Sqlite2
-- [Expo](https://docs.expo.io/get-started/installation/) - Expo
-- [Noje.js](https://nodejs.org/en/) - Node.js
-- [React](https://pt-br.reactjs.org/) - React
-- [React native](https://reactnative.dev/) - React Native
-- [TypeScript](https://www.typescriptlang.org/) - Server Environment
 
 ## 🏗 Como rodar <a name = "como_rodar"></a>
 
@@ -53,6 +44,17 @@ $ yarn start
 Instale o aplicativo Expo ou Expo Client
 Inicie o projeto yarn start
 Abre a camera do celular e aponte para o QR CODE
+
+## ⛏️ Tecnologias <a name = "tecnologias"></a>
+
+- [Sqlite3](https://github.com/sqlite/sqlite) - Database Sqlite2
+- [Expo](https://docs.expo.io/get-started/installation/) - Expo
+- [Noje.js](https://nodejs.org/en/) - Node.js
+- [React](https://pt-br.reactjs.org/) - React
+- [React native](https://reactnative.dev/) - React Native
+- [TypeScript](https://www.typescriptlang.org/) - Server Environment
+
+
 
 ## 📕 Licencia <a name = "licencia"></a>
 
