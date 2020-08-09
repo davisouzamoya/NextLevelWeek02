@@ -27,7 +27,7 @@ O Proffy é uma aplicação Web e Mobile feita para auxiliar na conexão entre o
 
 Este projeto foi idealizado pensando no 6 de agosto, onde se comemora o Dia Nacional dos Profissionais da Educação.
 
-Essa aplicação foi realizada durante a Next Level Week #2, projeto da Rocketseat.
+Essa aplicação foi realizada durante a Next Level Week #2, projeto da [Rocketseat](https://rocketseat.com.br/).
 
 ## ⛏️ Tecnologias <a name = "tecnologias"></a>
 
@@ -58,4 +58,4 @@ Abre a camera do celular e aponte para o QR CODE
 
 Lançado em 2020 📕 Licencia
 
-Feito por [Davi Souza](https://www.linkedin.com/in/davi-souza-396439145/) - Davi Souza 🚀. Esse projeto esta sobre MIT license.
+Feito por [Davi Souza](https://www.linkedin.com/in/davi-souza-396439145/) 🚀. Esse projeto esta sobre MIT license.
