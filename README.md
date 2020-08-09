@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="" rel="noopener">
   <h1 align="center">Proffys</h1> 
 </p>
 
