@@ -47,14 +47,14 @@ Abre a camera do celular e aponte para o QR CODE
 
 ## ⛏️ Tecnologias <a name = "tecnologias"></a>
 
-- [Sqlite3](https://github.com/sqlite/sqlite) - Database Sqlite2
-- [Expo](https://docs.expo.io/get-started/installation/) - Expo
-- [Noje.js](https://nodejs.org/en/) - Node.js
-- [React](https://pt-br.reactjs.org/) - React
-- [React native](https://reactnative.dev/) - React Native
-- [TypeScript](https://www.typescriptlang.org/) - Typescript
-- [Express](https://github.com/expressjs/express) - Express
-- [Axios](https://github.com/axios/axios) - Axios
+- [Sqlite3](https://github.com/sqlite/sqlite)
+- [Expo](https://docs.expo.io/get-started/installation/) 
+- [Noje.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Express](https://github.com/expressjs/express)
+- [Axios](https://github.com/axios/axios)
 
 ## 📕 Licencia <a name = "licencia"></a>
 
