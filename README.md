@@ -52,9 +52,9 @@ Abre a camera do celular e aponte para o QR CODE
 - [Noje.js](https://nodejs.org/en/) - Node.js
 - [React](https://pt-br.reactjs.org/) - React
 - [React native](https://reactnative.dev/) - React Native
-- [TypeScript](https://www.typescriptlang.org/) - Server Environment
-
-
+- [TypeScript](https://www.typescriptlang.org/) - Typescript
+- [Express](https://github.com/expressjs/express) - Express
+- [Axios](https://github.com/axios/axios) - Axios
 
 ## 📕 Licencia <a name = "licencia"></a>
 
