@@ -2,7 +2,7 @@
   <h1 align="center">Proffys</h1> 
 </p>
 
-
+<p align="center"> 🚀 Projeto feito para conectar professores e estudantes, feito na Next Level Week #2 @Rocketseat
 
 <div align="center">
 
@@ -13,9 +13,6 @@
 
 </div>
 
----
-
-<p align="center"> 🚀 Projeto feito para conectar professores e estudantes, feito na Next Level Week #2 @Rocketseat
     <br> 
 </p>
 
