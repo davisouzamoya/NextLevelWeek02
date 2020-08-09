@@ -23,9 +23,8 @@
 ## 📝 Table of Contents
 
 - [Sobre](#sobre)
-- [Licencia](#licencia)
-- [Como rodar](#como_rodar)
 - [Tecnologias](#tecnologias)
+- [Como rodar](#como_rodar)
 - [Licencia](#licencia)
 
 ## 🧐 Sobre <a name = "sobre"></a>
