@@ -1,9 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/davisouzamoya/NextLevelWeek02/blob/master/web/src/assets/images/icons/logo.svg" alt="Project logo"></a>
+  <h1 align="center">Proffys</h1> 
 </p>
 
-<h3 align="center">Proffys</h3>
+
 
 <div align="center">
 
