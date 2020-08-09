@@ -60,7 +60,7 @@ Instale o aplicativo Expo ou Expo Client
 Inicie o projeto yarn start
 Abre a camera do celular e aponte para o QR CODE
 
-## 📕 Authors <a name = "licencia"></a>
+## 📕 Licencia <a name = "licencia"></a>
 
 Lançado em 2020 📕 Licencia
 
